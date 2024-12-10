@@ -21,6 +21,7 @@ body{
     justify-content: center;
 }
 
+
 #titulo{
     font-family: Croissant;
    font-size: 60px;
@@ -60,4 +61,31 @@ body{
     flex-direction: column;
     color: var(--letras);
     font-size: 20px;
+}
+
+#p3{
+    margin-top: 1280px;
+}.proj{
+    object-fit: cover;
+}
+
+img{
+    width: 1200px;
+    height: 80vh;
+}#subb{
+    font-family: Croissant;
+   font-size: 30px;
+   padding-top: 10px;
+}#bot{
+    margin-top: 80px;
+}
+
+#nom{
+    margin-top: 1430px;
+}
+
+#si{
+    height: 90vh;
+}#siit{
+    margin-top: 200px;
 }
